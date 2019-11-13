@@ -1,10 +1,10 @@
 {
   "name": "node-adder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple NPM module to explore GH Packages",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,9 @@
     "url": "https://github.com/taywrobel/node-adder/issues"
   },
   "homepage": "https://github.com/taywrobel/node-adder#readme",
-  "keywords": []
+  "keywords": [],
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.2"
+  }
 }

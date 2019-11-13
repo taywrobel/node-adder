@@ -1,0 +1,20 @@
+{
+  "name": "node-adder",
+  "version": "1.0.0",
+  "description": "Simple NPM module to explore GH Packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taywrobel/node-adder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taywrobel/node-adder/issues"
+  },
+  "homepage": "https://github.com/taywrobel/node-adder#readme",
+  "keywords": []
+}
